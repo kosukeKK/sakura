@@ -1,0 +1,183 @@
+current directory: /home/kosk/sample/rails_sample/vendor/bundle/ruby/2.4.0/gems/therubyracer-0.12.3/ext/v8
+/home/kosk/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20171216-6684-1g0kv07.rb extconf.rb
+checking for -lpthread... yes
+creating Makefile
+
+current directory: /home/kosk/sample/rails_sample/vendor/bundle/ruby/2.4.0/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR=" clean
+
+current directory: /home/kosk/sample/rails_sample/vendor/bundle/ruby/2.4.0/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR="
+compiling accessor.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling array.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling backref.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling constants.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling constraints.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling context.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling date.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling exception.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling external.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling function.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling gc.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling handles.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling heap.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling init.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling invocation.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling locker.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling message.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling object.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling primitive.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling rr.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling script.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling signature.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling stack.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling string.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling template.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling trycatch.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling v8.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+compiling value.cc
+cc1plus: 警告: command line option "-Wimplicit-int" is valid for C/ObjC but not for C++
+cc1plus: 警告: unrecognized command line option "-Wno-self-assign"
+cc1plus: 警告: unrecognized command line option "-Wno-constant-logical-operand"
+cc1plus: 警告: unrecognized command line option "-Wno-parentheses-equality"
+cc1plus: 警告: unrecognized command line option "-Wno-tautological-compare"
+linking shared-object v8/init.so
+
+current directory: /home/kosk/sample/rails_sample/vendor/bundle/ruby/2.4.0/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 init.so ./.gem.20171216-6684-1l2cxh9/v8
